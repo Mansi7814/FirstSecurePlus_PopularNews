@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular News</string>
+    <string name="top_headlines">Top HeadLines</string>
+    <string name="author">Author</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="xyz">TODO</string>
+    <string name="abc">TODO</string>
+    <string name="qwerty">TODO</string>
+    <string name="title">Title</string>
+    <string name="source">Source</string>
+    <string name="desc">Desc</string>
+    <string name="backdrop">TODO</string>
+    <string name="_01__january_1990">01 January 1990</string>
+    <string name="img2">TODO</string>
+    <string name="news_for_you">News for you</string>
+    <string name="title_of_news">Title of News</string>
+    <string name="a_time_ago">a time ago</string>
+    <string name="imageview">TODO</string>
+    <string name="sddcimageview">TODO</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Error Message</string>
+    <string name="error_title">Error Title</string>
+    <string name="error_image">TODO</string>
+</resources>
